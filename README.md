@@ -1,14 +1,19 @@
-    _   __  _  _
-    |  /  \ |  |            |
-    |  \__  |__|      __  __|__ __  | ~
-    |     \ |  | | | /  \   |  /__\ |/
- \_ /  \_ / |  | \_/ |  |   \_ \__  |
+		_   __  _  _
+		|  /  \ |  |            |
+		|  \__  |__|      __  __|__ __  | ~
+		|     \ |  | | | /  \   |  /__\ |/
+	 \_ /  \_ / |  | \_/ |  |   \_ \__  |
  
 
 Notice: Only support linux platform.
 
 ## Dependency
 * python >= 2.6
+
+## How to use
+use `./hint.py --help` for more help
+
+The simple usage is `./hint.py -r report.html test1.js test2.js
 
 ## Extract Regrex
 for html, php ... Extract Regrex
