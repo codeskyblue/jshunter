@@ -3,6 +3,9 @@
     |  \__  |__|      __  __|__ __  | ~
     |     \ |  | | | /  \   |  /__\ |/
  \_ /  \_ / |  | \_/ |  |   \_ \__  |
+ 
+
+Notice: Only support linux platform.
 
 Dependency:
     * python >= 2.6
